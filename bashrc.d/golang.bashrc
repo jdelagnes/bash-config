@@ -1,0 +1,1 @@
+export GOPATH=/home/jerome/Sources/go
