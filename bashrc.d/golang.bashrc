@@ -1,1 +1,1 @@
-export GOPATH=/home/jerome/Sources/go
+GOPATH=${HOME}/Sources/go
