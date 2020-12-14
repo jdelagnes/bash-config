@@ -1,2 +1,2 @@
-SDKMAN_DIR=${HOME}/.local/opt/sdkman
+export SDKMAN_DIR=${HOME}/.local/opt/sdkman
 . ${SDKMAN_DIR}/bin/sdkman-init.sh
